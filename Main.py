@@ -1,4 +1,4 @@
-senhaCorreta = "segredo"
+senhaCorreta = "secret"
 tentativas = 3
 autenticado = False
 senhas = []
